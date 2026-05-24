@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Vedansh128.github.io/MovieSpace"
+  "homepage": "https://Vedansh128.github.io/MovieSpace",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
